@@ -1,0 +1,56 @@
+.hud {
+    display: flex;
+    position: absolute;
+    bottom: 62%;
+    left: 100.1%;
+    transform: translate(-50%, -1%);
+}
+
+.hud2 {
+    display: flex;
+    position: absolute;
+    bottom: 53%;
+    left: 100%;
+    transform: translate(-50%, -1%);
+}
+
+.hud3 {
+    display: flex;
+    position: absolute;
+    bottom: 93%;
+    left: 90%;
+    transform: translate(-100%, 250%);
+}
+
+.html {
+    height: 62px;
+    width: 78px;
+    background-color: rgba(0,0,0,0.4);
+    transform: skew(-10deg);
+    border-radius: 15px;
+}
+
+.html2 {
+    height: 62px;
+    width: 78px;
+    background-color: rgba(0,0,0,0.4);
+    transform: skew(-10deg);
+    border-radius: 15px;
+}
+
+.html3 {
+    height: 62px;
+    width: 78px;
+    background-color: rgba(0,0,0,0.4);
+    transform: skew(-10deg);
+    border-radius: 15px;
+}
+
+.fas {
+    color: yellow;
+    font-size: 2.0rem;
+    position: absolute;
+    top: 10%;
+    left: -5%;
+    transform: translate(-15%, 20%);
+}
