@@ -10,10 +10,6 @@ client_scripts {
 	'pancerz.lua'
 }
 
-server_scripts {
-	'server.lua'
-}
-
 files {
 	'html/ui.html',
 	'html/main.css',
